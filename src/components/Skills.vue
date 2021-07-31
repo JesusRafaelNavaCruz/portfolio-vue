@@ -92,7 +92,7 @@
             <v-col cols="10">
               <v-row align="center" justify="center">
                 <v-col>
-                  <v-card class="py-2 px-2 grey darken-4 white--text">
+                  <v-card class="py-2 px-2 white--text" color="#142635">
                     <v-card-title>Desarrollo Front-End</v-card-title>
                     <v-card-text class="white--text"
                       >Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -103,7 +103,7 @@
                   </v-card>
                 </v-col>
                 <v-col>
-                  <v-card class="py-2 px-2 grey darken-4 white--text">
+                  <v-card class="py-2 px-2 white--text" color="#142635">
                     <v-card-title>Desarrollo Back-End</v-card-title>
                     <v-card-text class="white--text"
                       >Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -114,7 +114,7 @@
                   </v-card>
                 </v-col>
                 <v-col>
-                  <v-card class="py-2 px-2 grey darken-4 white--text">
+                  <v-card class="py-2 px-2 white--text" color="#142635">
                     <v-card-title>Analista de datos</v-card-title>
                     <v-card-text class="white--text"
                       >Lorem ipsum dolor sit amet consectetur adipisicing elit.

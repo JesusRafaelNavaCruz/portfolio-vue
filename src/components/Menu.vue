@@ -14,14 +14,45 @@
 
       <v-divider></v-divider>
 
-      <v-list dense>
+      <v-list>
         <v-list-item link>
           <v-list-item-icon>
-            <v-icon></v-icon>
+            <v-icon>mdi-home</v-icon>
           </v-list-item-icon>
-
           <v-list-item-content>
-            <v-list-item-title></v-list-item-title>
+            <v-list-item-title>Inicio</v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item link>
+          <v-list-item-icon>
+            <v-icon>mdi-home</v-icon>
+          </v-list-item-icon>
+          <v-list-item-content>
+            <v-list-item-title>Sobre mì</v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>        
+        <v-list-item link>
+          <v-list-item-icon>
+            <v-icon>mdi-home</v-icon>
+          </v-list-item-icon>
+          <v-list-item-content>
+            <v-list-item-title>Habilidades</v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>        
+        <v-list-item link>
+          <v-list-item-icon>
+            <v-icon>mdi-home</v-icon>
+          </v-list-item-icon>
+          <v-list-item-content>
+            <v-list-item-title>Servicios</v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>        
+        <v-list-item link>
+          <v-list-item-icon>
+            <v-icon>mdi-home</v-icon>
+          </v-list-item-icon>
+          <v-list-item-content>
+            <v-list-item-title>Portafolio</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
       </v-list>
@@ -29,7 +60,7 @@
 
     <v-app-bar
       app
-      color="black"
+      color="#2a3947"
       :flat="flat"
       dark
       class="px-15"
@@ -60,10 +91,7 @@
         <v-btn text @click="$vuetify.goTo('#portfolio')">
           <span class="mr-2">Portafolio</span>
         </v-btn>
-        <v-btn text @click="$vuetify.goTo('#blog')">
-          <span class="mr-2">Blog</span>
-        </v-btn>
-        <v-btn rounded outlined text @click="$vuetify.goTo('#contact')">
+        <v-btn outlined text @click="$vuetify.goTo('#contact')">
           <span class="mr-2">Contactame</span>
         </v-btn>
       </div>

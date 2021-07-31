@@ -7,6 +7,7 @@
             <v-col md="6">
               <v-img
                 src="@/assets/fotoPrincipal.png"
+                lazy-src="@/assets/fotoPrincipal.png"
               ></v-img>
             </v-col>
             <v-col md="4">

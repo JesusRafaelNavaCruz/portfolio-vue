@@ -1,27 +1,41 @@
 <template>
   <div>
-    <v-footer color="black lighten-1" padless>
-      <v-row justify="center" no-gutters>
+    <v-footer color="#2a3947" padless>
+      <v-row justify="center" align="center" no-gutters>
+
+        <v-btn class="mx-4 white--text" icon>
+          <v-icon size="24px">
+            mdi-github
+          </v-icon>
+        </v-btn>        
+        <v-btn class="mx-4 white--text" icon>
+          <v-icon size="24px">
+            mdi-gitlab
+          </v-icon>
+        </v-btn>        
+        <v-btn class="mx-4 white--text" icon>
+          <v-icon size="24px">
+            mdi-facebook
+          </v-icon>
+        </v-btn>        
+        <v-btn class="mx-4 white--text" icon>
+          <v-icon size="24px">
+            mdi-twitter
+          </v-icon>
+        </v-btn>        
+        <v-btn class="mx-4 white--text" icon>
+          <v-icon size="24px">
+            mdi-instagram
+          </v-icon>
+        </v-btn>
+        <v-btn class="mx-4 white--text" icon>
+          <v-icon size="24px">
+            mdi-discord
+          </v-icon>
+        </v-btn>
         
-      <v-btn text rounded class="my-2" color="white"> Inicio </v-btn>
-
-      <v-btn text rounded class="my-2" color="white"> Sobre mi </v-btn>
-
-      <v-btn text rounded class="my-2" color="white"> Habilidades </v-btn>
-
-      <v-btn text rounded class="my-2" color="white"> Servicios </v-btn>
-
-      <v-btn text rounded class="my-2" color="white"> Portafolio </v-btn>
-
-      <v-btn text rounded class="my-2" color="white"> Testimonios </v-btn>
-
-      <v-btn text rounded class="my-2" color="white"> Blog </v-btn>
-
-      <v-btn text rounded class="my-2" color="white"> Contacto </v-btn>
-
-
-        <v-col class="black lighten-2 py-4 text-center white--text" cols="12">
-          {{ new Date().getFullYear() }} — <strong>Vuetify</strong>
+        <v-col class="py-4 text-center white--text" color="#142635" cols="12">
+          {{ new Date().getFullYear() }} — <strong>Jesus Rafael Nava Cruz.</strong> Todos los derechos reservados
         </v-col>
       </v-row>
     </v-footer>

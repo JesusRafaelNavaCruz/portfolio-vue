@@ -6,6 +6,8 @@
       <About/>
       <Skills/>
       <Services/>
+      <Portfolio/>
+      <Contact/>
     </v-main>
     <v-scale-transition>
       <v-btn
@@ -31,6 +33,8 @@ import Home from './components/Home.vue';
 import About from './components/About.vue';
 import Skills from './components/Skills.vue';
 import Services from './components/Services.vue';
+import Portfolio from './components/Portfolio.vue';
+import Contact from './components/Contact.vue';
 
 export default {
   name: 'App',
@@ -40,7 +44,9 @@ export default {
     Home,
     About,
     Skills,
-    Services
+    Services,
+    Portfolio,
+    Contact
   },
 
   data: () => ({
