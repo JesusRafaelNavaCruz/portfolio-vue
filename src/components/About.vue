@@ -13,28 +13,20 @@
             <v-col md="4">
               <h1 class="display-1 font-weight-bold mb-4">Jesus Nava</h1>
               <h1 class="font-weight-light mb-2">
-                Soy un apasionado desarrollador web
+                Desarrollador web Front-End
               </h1>
               <p class="text-justify">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam
-                dolores necessitatibus omnis nobis facere dolorem esse, iste
-                illum reprehenderit quo assumenda dignissimos nemo eum repellat
-                ratione, quam, tempora beatae odit maiores? Laboriosam dolor,
-                incidunt pariatur similique delectus dignissimos! Atque omnis
-                reprehenderit quibusdam provident eligendi dolor nulla quo,
-                illum nihil odit praesentium hic repellat sit architecto
-                deserunt, ducimus repudiandae ut ipsa! Suscipit corporis ab,
-                doloribus fuga ut quo officia nihil commodi impedit nobis
-                delectus sed sequi reprehenderit aliquam labore amet neque velit
-                iusto, ullam, obcaecati nisi. Distinctio accusantium ducimus, ad
-                vitae harum ex tempore quidem commodi iusto perferendis, unde
-                possimus rerum. Lorem, ipsum dolor sit amet consectetur
-                adipisicing elit. Excepturi sed aspernatur dolorum assumenda
-                veritatis modi non ullam accusantium odio expedita officia, quis
-                suscipit ipsum quia magni minima exercitationem repellat,
-                ratione amet qui sit quidem quod rerum. Unde cumque, recusandae,
-                animi praesentium voluptatibus soluta pariatur cum at id eum
-                nobis accusamus.
+                Mi nombre es Jesus Rafael Nava Cruz, tengo 23 años de edad,
+                recien egresado de la carrera de Ingeniería en Tecnologias de la
+                Información de la Universidad Tecnológica de Emiliano Zapata,
+                Morelos.
+              </p>
+              <p class="text-justify">
+                Soy un apasionado de la programación y el desarrollo web, me
+                gusta mucho aprender día con día para poder mejorar mis
+                habilidades, me especializo en tecnologías de desarrollo de
+                parte del front-end pero siempre con la actitud de aprender y
+                adaptarme a nuevas tecnologías, lenguajes, plugins, entre otros.
               </p>
             </v-col>
           </v-row>

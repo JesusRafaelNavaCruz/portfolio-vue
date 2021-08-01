@@ -104,7 +104,7 @@
                 </v-col>
                 <v-col>
                   <v-card class="py-2 px-2 white--text" color="#142635">
-                    <v-card-title>Desarrollo Back-End</v-card-title>
+                    <v-card-title>UX/UI</v-card-title>
                     <v-card-text class="white--text"
                       >Lorem ipsum dolor sit amet consectetur adipisicing elit.
                       Libero ipsam excepturi quibusdam? Recusandae, quisquam

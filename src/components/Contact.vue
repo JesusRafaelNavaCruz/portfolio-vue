@@ -41,6 +41,14 @@
                         <v-textarea label="Mensaje" rows="1" dark></v-textarea>
                       </v-col>
                     </v-row>
+                    <v-row align="center" justify="center">
+                      <v-col cols="4">
+                        <v-btn x-large>
+                          Enviar<v-icon right>mdi-send</v-icon>
+                        </v-btn>
+                      </v-col>
+                    </v-row>
+
                   </v-form>
                 </v-col>
               </v-row>
